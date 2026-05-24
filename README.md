@@ -42,6 +42,7 @@ flashcard-app/
 
 ### 1. Set up MySQL
 
+Make sure change the DB_PASSWORD=0128 in .env.example "0128" to your own sql root password
 Make sure MySQL ≥ 8 is running locally. Create the database and tables:
 
 ```bash
